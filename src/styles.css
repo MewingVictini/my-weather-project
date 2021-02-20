@@ -1,0 +1,97 @@
+h1 {
+  color: rgb(2, 4, 17);
+  margin: 0;
+  opacity: 0.9;
+  font-family: "Fraunces", serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 18px;
+  color: rgb(34, 37, 70);
+}
+
+ul {
+  list-style: none;
+  font-size: 19px;
+  background-color: rgb(220, 220, 241);
+  border-radius: 4px;
+  color: rgb(34, 37, 70);
+  opacity: 0.8;
+  padding: 3px;
+}
+
+.content {
+  max-width: 700px;
+  margin: 70px auto;
+  background-color: rgb(239, 239, 245);
+  padding: 12px;
+  border-radius: 5px;
+  border: 2px solid rgb(104, 104, 134);
+}
+
+.search {
+  padding: 0 240px 0 2px;
+  font-style: italic;
+  color: rgb(38, 40, 58);
+}
+
+.fa-cloud {
+  font-size: 75px;
+  color: rgb(86, 113, 201);
+}
+
+.temperature {
+  font-size: 50px;
+}
+
+.day-hour {
+  font-size: 28px;
+  color: rgb(34, 37, 70);
+  opacity: 0.8;
+  font-weight: 400;
+  margin: 0 0 22px 0;
+}
+
+.days {
+  padding: 70px 0 30px 50px;
+  font-size: 18px;
+  color: rgb(34, 37, 70);
+  font-weight: 500;
+}
+
+.col-2 {
+  background-color: rgb(220, 220, 241);
+  border-radius: 3px;
+  padding-bottom: 5px;
+}
+
+.fa-cloud-sun {
+  font-size: 40px;
+  color: rgb(86, 113, 201);
+  border: solid rgb(86, 113, 201) 2px;
+  border-radius: 50%;
+  padding: 9px;
+}
+
+.fa-cloud-rain {
+  font-size: 40px;
+  color: rgb(86, 113, 201);
+  border: solid rgb(86, 113, 201) 2px;
+  border-radius: 50%;
+  padding: 9px;
+}
+
+.fahrenheit {
+  font-size: 33px;
+}
+
+.fahrenheitLink {
+  text-decoration: none;
+  color: rgb(86, 113, 201);
+}
+
+.fahrenheitLink:hover {
+  text-decoration: underline;
+  color: rgb(86, 113, 201);
+}
